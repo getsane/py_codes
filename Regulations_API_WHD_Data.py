@@ -31,7 +31,7 @@ import itertools
 # Defining the url (base link, API, etc)
 
 base = 'https://api.data.gov/regulations/v3/documents'
-api = 'VMXKcPf6MelG3qKCabiajcRcEoJvngQSJP3Y1Yki' # sandeep's api key
+api = '' 										# Insert API key as string
 docnum = 'WHD-2011-0003'                         # Docket Id
 dattyp = 'json'                                  # record type requested
 
